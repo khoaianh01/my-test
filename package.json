@@ -1,0 +1,25 @@
+{
+  "name": "@creatabc/my-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khoaianh01/my-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khoaianh01/my-test/issues"
+  },
+  "homepage": "https://github.com/khoaianh01/my-test#readme",
+  "dependencies": {
+    "@creatabc/my-test": "^1.0.0"
+  }
+}
